@@ -6,5 +6,5 @@ package domain;
  */
 public class Student {
     String name;
-    String branch2;
+    String branch1;
 }
